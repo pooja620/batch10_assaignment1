@@ -1,0 +1,3 @@
+a=3
+peri=a**2
+print(peri)

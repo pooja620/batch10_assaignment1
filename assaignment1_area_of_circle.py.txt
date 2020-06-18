@@ -1,0 +1,4 @@
+r=2
+pi=3.12
+area=pi*(r**2)
+print(area)
